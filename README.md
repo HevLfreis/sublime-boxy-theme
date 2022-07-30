@@ -1,14 +1,22 @@
 ## This repo is the content of `Boxy Theme.sublime-package` v5.2.0.
 
-For some reason the author of Boxy Theme for Sublime Text decided to remove all his projects from Guthub. <https://github.com/ihodev/sublime-boxy> repo has been deleted along with all it's forks, thanks to Github. I found `Boxy Theme.sublime-package` file in my `Installed Packages` dir on MacOS and put it's content here.
+cp all files to Pacakges
+User/Package\ Control.sublime-settings
 
-Hey guys i installed this theme in my windows device successfully.
-download this theme as zip file.
-and extract in the folder of (open sublime and click preference and browse package -paste here and rename as "Boxy Theme".
-then open the folder just rename (schemes-> Themes).
-that's solve,
-now go and check the theme and color schemes in preference. it will work for you .
-enjoy :)
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"A File Icon",
+		"Boxy Theme",
+		"Package Control",
+	],
+	"in_process_packages":
+	[
+	],
+}
+
+For some reason the author of Boxy Theme for Sublime Text decided to remove all his projects from Guthub. <https://github.com/ihodev/sublime-boxy> repo has been deleted along with all it's forks, thanks to Github. I found `Boxy Theme.sublime-package` file in my `Installed Packages` dir on MacOS and put it's content here.
 
 ### Links:
 
